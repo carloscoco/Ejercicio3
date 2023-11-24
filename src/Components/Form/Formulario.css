@@ -1,0 +1,74 @@
+
+.Formulario div {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:row;
+   
+}
+
+#Mostrar {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    text-align: center;
+}
+#Mostrar h4 { 
+  margin-top: 10px;
+  margin-bottom:  10px;   
+}
+
+#Mostrar p {
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    background-color: rgb(95, 141, 160); 
+    width: 300px;
+    
+ }
+
+.Formulario #muestra {
+    position: fixed;
+    right: 10;
+    left:63.0%;
+    z-index:9999;
+    opacity: 0.7;
+    background: #79a6ee;
+    margin-top:3px;
+    padding-left: 10px;
+    padding-right: 5px;
+    border-top-left-radius: 0.5em 1em;
+}
+
+.Formulario input{
+    margin-left: 20px;
+    margin-top: 5px;
+    width: 200px;
+}
+
+.Formulario label{
+    width: 125px;
+    text-align: left;
+    margin-top: 5px;
+}
+
+.Formulario legend{
+    margin-top: 20px;
+    background-color: aqua;
+    width: 350px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+
+.Formulario select{
+    margin-left: 20px;
+    margin-top: 5px;
+    width: 204px;
+}
+
+.Formulario button{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
