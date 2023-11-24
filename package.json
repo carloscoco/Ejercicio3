@@ -2,7 +2,7 @@
   "name": "practico3",
   "version": "0.1.0",
   "private": true,
-  "HomePages": "http://carloscoco.github.io/Ejercicio3",
+  "HomePages": "https://carloscoco.github.io/Ejercicio3",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
